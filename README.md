@@ -1,2 +1,1 @@
-# NuStore-Auth-FE
-Auth Front end for NuStore
+# Brian The Dev
